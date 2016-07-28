@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=58:AB:D0:A1:D1:10:43:5D:A2:AB:7F:91:E2:36:C8:FA:11:DE:A0:80%3Bcom.example.guvelo.navdrawertest
+
+    You can also add your credentials to an existing key, using this line:
+    58:AB:D0:A1:D1:10:43:5D:A2:AB:7F:91:E2:36:C8:FA:11:DE:A0:80;com.example.guvelo.navdrawertest
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+         AIzaSyBM46tAqt1JjWJAHLo4sZZfQD27v53UT30
+    </string>
+</resources>
